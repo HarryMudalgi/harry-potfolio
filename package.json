@@ -1,0 +1,18 @@
+{
+  "name": "harry-potfolio",
+  "version": "1.0.0",
+  "description": "Harry's Video Editor Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "video-editor"
+  ],
+  "author": "Harry Mudalgi",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
